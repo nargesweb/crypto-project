@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+view online :https://affectionate-euclid-64b417.netlify.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
